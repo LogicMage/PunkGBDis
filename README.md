@@ -1,5 +1,5 @@
 # PunkGBDis
-Basic CLI tool for decompiling Game Boy ROMs. The source code for this executable is included in ```PunkGBDis.c```.
+Basic CLI tool for disassembling Game Boy ROMs. The source code for this executable is included in ```PunkGBDis.c```.
 
 # Usage
 
